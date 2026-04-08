@@ -133,10 +133,10 @@ git clone https://github.com/alexander-lm/PestNeuroVision.git
 
 To log in to the PestNeuroVision app, you will need to enter the following login credentials:
 
-> **Credentials for Login:**
-> - **User:** `admin`
-> - **Password:** `admin`
->
+ **Credentials for Login:**
+ - **User:** admin
+ - **Password:** admin
+
 
 ---
 
