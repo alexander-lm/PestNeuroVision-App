@@ -42,7 +42,7 @@ This repository contains both the AI model pipeline and the installer (.apk) and
 ## 📂 Repository Structure
 
 * **android-app/**: Source code for the mobile app developed in Android Studio.
-* **model/**: Source code for the YOLO11s model, trained, validated, and exported. dditionally, it includes the labels for the 900 images comprising the complete dataset. Not all of the data is available due to copyright restrictions.
+* **model/**: Source code for the YOLO11s model, trained, validated, and exported. Additionally, it includes the labels for the 900 images comprising the complete dataset. Not all of the data is available due to copyright restrictions.
 
 
 <hr style="height:4px; border:none; background-color:#444;">
