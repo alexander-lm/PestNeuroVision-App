@@ -85,7 +85,7 @@ The model is based on the **YOLO11s** architecture. The development process is d
 
 ### 📋 Development environment requirements (developer)
 
-- **Operating System:** Windows 10 or higher, Linux Ubuntu 22.04 LTS, or macOS 13 or higher.
+- **Operating System:** Windows 10 or higher, Linux Ubuntu 22.04 LTS or higher, or macOS 13 or higher.
 - **RAM:** 8 GB or higher.
 - **Storage capacity:** 10 GB or higher.
 - **Processor:** Intel Core i5 or equivalent.
