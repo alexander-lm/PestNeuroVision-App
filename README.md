@@ -71,7 +71,7 @@ The model is based on the **YOLO11s** architecture. The development process is d
 
 <hr style="height:4px; border:none; background-color:#444;">
 
-## 📱 Phase 2: Mobile App Development
+## 📱 Phase 2: Mobile App Development (Android Studio)
 
 ### 🛠️ Technology Stack
 
@@ -85,13 +85,13 @@ The model is based on the **YOLO11s** architecture. The development process is d
 
 ### 📋 Development environment requirements (developer)
 
-- **Sistema Operativo:** Windows 10 o superior, Linux Ubuntu 22.04 LTS,  o macOS 13 o superior.
-- **RAM:** 8 GB or higher
-- **Storage capacity:** 10GB or higher.
-- **Procesador:** Intel Core i5 o equivalente.
-- **IDE:** Android Studio  Studio Narwhal v2025.1.1 o superior
-- **Dispositivo físico:** Recomendado (la aplicación utiliza la cámara y la galería del dispositivo).
-- **Emulador (Opcional):** Android Virtual Device (AVD), incluido en Android Studio. Funcional para pruebas con la galería, con soporte limitado para la cámara.
+- **Operating System:** Windows 10 or higher, Linux Ubuntu 22.04 LTS, or macOS 13 or higher.
+- **RAM:** 8 GB or higher.
+- **Storage capacity:** 10 GB or higher.
+- **Processor:** Intel Core i5 or equivalent.
+- **IDE:** Android Studio Narwhal v2025.1.1 or higher.
+- **Physical device:** Recommended (the application uses the device's camera and gallery).
+- **Emulator (Optional):** Android Virtual Device (AVD), included in Android Studio. Functional for gallery testing, with limited camera support.
 
 ---
 
@@ -116,7 +116,7 @@ Simplified structure of the MVVM pattern used by the application:
 
 ---
 
-## ⚙️ Importar, configurar y ejecutar el código fuente
+## ⚙️ Import, configure, and run the source code
 
 1. **Clone the repository:**
 ```bash
