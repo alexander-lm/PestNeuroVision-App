@@ -8,8 +8,6 @@
 
 **PestNeuroVision** is an Android mobile application for detecting agricultural pests using convolutional neural networks and computer vision. Developed as part of a scientific research and technological innovation project, it integrates the YOLO11s object detection model—which runs entirely on-device without requiring an internet connection—to identify various species.
 
-This repository contains the AI model pipeline and the Android app source code.
-
 <hr style="height:4px; border:none; background-color:#444;">
 
 ## 📱 Features
