@@ -118,7 +118,7 @@ Simplified structure of the MVVM pattern used by the application:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/alexander-lm/PestNeuroVision.git
+   git clone https://github.com/alexander-lm/PestNeuroVision-app.git
 ```
 
 2. **Open the project in Android Studio:** Select _File > Open_ and choose the **`app`** folder inside the cloned repository (not the root folder).
