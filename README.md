@@ -6,20 +6,20 @@
 [![IDE: Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Language: Kotlin](https://img.shields.io/badge/Language-Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
-**PestNeuroVision** is an Android mobile application for detecting agricultural pests using convolutional neural networks and computer vision. Developed as part of a scientific research and technological innovation project, it integrates the YOLO11s object detection model—which runs entirely on-device without requiring an internet connection—to identify various insect species.
+**PestNeuroVision** is an Android mobile application for detecting agricultural pests using convolutional neural networks and computer vision. Developed as part of a scientific research and technological innovation project, it integrates the YOLO11s object detection model—which runs entirely on-device without requiring an internet connection—to identify various species.
 
-This repository contains both the AI model pipeline and the installer (.apk) and source code for the Android app.
+This repository contains the AI model pipeline and the Android app source code.
 
 <hr style="height:4px; border:none; background-color:#444;">
 
 ## 📱 Features
 
-- Detection via camera or photo gallery
-- Confidence level for each detection
-- Detection history
-- Statistical charts of detections
-- Technical information for each species
-- 100% offline operation — no internet connection required
+- Detection via camera or photo gallery.
+- Confidence level for each detection.
+- Detection history.
+- Statistical charts of detections.
+- Technical information for each species.
+- 100% offline operation — no internet connection required.
 
 <hr style="height:4px; border:none; background-color:#444;">
 
@@ -97,10 +97,10 @@ The model is based on the **YOLO11s** architecture. The development process is d
 
 ### 📋 Minimum mobile device requirements (end user)
 
-- **Operating System:** Android 11 (API 30) or higher
-- **Processor:** Octa-core 2.0 GHz or higher
-- **RAM:** 4 GB or higher
-- **Storage capacity:** 150 MB minimum
+- **Operating System:** Android 11 (API 30) or higher.
+- **Processor:** Octa-core 2.0 GHz or higher.
+- **RAM:** 4 GB or higher.
+- **Storage capacity:** 150 MB minimum.
 
 ---
 

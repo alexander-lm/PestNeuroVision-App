@@ -1,7 +1,7 @@
 Copyright (C) 2026 Alexander Leandro-Mendoza
 National University of Cañete (UNDC)
 
-Source code: https://github.com/alexander-lm/PestNeuroVision
+Source code: https://github.com/alexander-lm/PestNeuroVision-source-code
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
@@ -33,7 +33,7 @@ YOLO11s MODEL WEIGHTS
 
 The fine-tuned YOLO11s weights used in this project, as well as the 
 resulting metrics, are derivative works of the 
-Ultralytics YOLO11 base model. 
+Ultralytics YOLO11s base model. 
 
 These assets are distributed under the GNU Affero General Public 
 License v3.0 (AGPL-3.0) in accordance with the original license terms.

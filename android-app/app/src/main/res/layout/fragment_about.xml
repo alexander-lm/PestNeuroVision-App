@@ -236,23 +236,23 @@
                 android:layout_marginTop="2dp"
                 android:layout_marginBottom="10dp" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/tvCredit6"
-                android:text="Liriomyza huidobrensis leaf mine"
-                android:fontFamily="@font/montserrat_bold"
-                android:textSize="13sp"
-                android:textColor="#1A1A1A" />
-            <TextView
-                android:id="@+id/tvCreditSub6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Reproduced from Mugala et al. (2022), Journal of African Entomology, CC BY 4.0"
-                android:fontFamily="@font/montserrat_regular"
-                android:textSize="12sp"
-                android:layout_marginTop="2dp"
-                android:layout_marginBottom="10dp" />
+<!--            <TextView-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:id="@+id/tvCredit6"-->
+<!--                android:text="Liriomyza huidobrensis leaf mine"-->
+<!--                android:fontFamily="@font/montserrat_bold"-->
+<!--                android:textSize="13sp"-->
+<!--                android:textColor="#1A1A1A" />-->
+<!--            <TextView-->
+<!--                android:id="@+id/tvCreditSub6"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Reproduced from Mugala et al. (2022), Journal of African Entomology, CC BY 4.0"-->
+<!--                android:fontFamily="@font/montserrat_regular"-->
+<!--                android:textSize="12sp"-->
+<!--                android:layout_marginTop="2dp"-->
+<!--                android:layout_marginBottom="10dp" />-->
 
             <TextView
                 android:layout_width="wrap_content"

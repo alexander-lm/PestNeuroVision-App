@@ -41,7 +41,7 @@ class AboutFragment : Fragment() {
             Triple(R.id.tvCredit3, "Dione juno",             " (adult)"),
             Triple(R.id.tvCredit4, "Dione juno",             " (larva)"),
             Triple(R.id.tvCredit5, "Ligyrus gibbosus",       " (adult)"),
-            Triple(R.id.tvCredit6, "Liriomyza huidobrensis", " (adult)"),
+            //Triple(R.id.tvCredit6, "Liriomyza huidobrensis", " (adult)"),
             Triple(R.id.tvCredit7, "Myzus persicae",         " (nymph)"),
             Triple(R.id.tvCredit8, "Spodoptera frugiperda",  " (adult)"),
             Triple(R.id.tvCredit9, "Spodoptera frugiperda",  " (larva)"),
@@ -106,19 +106,19 @@ class AboutFragment : Fragment() {
         }
 
         // Link DOI para Mugala et al.
-        val tvSub6 = view.findViewById<TextView>(R.id.tvCreditSub6)
-        if (tvSub6 != null) {
-            val text = tvSub6.text.toString()
-            val keyword = "Journal of African Entomology"
-            val start = text.indexOf(keyword)
-            if (start != -1) {
-                val url = "https://doi.org//10.17159/2254-8854/2022/a11455"
-                val spannable = SpannableString(text)
-                spannable.setSpan(URLSpan(url), start, start + keyword.length, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
-                tvSub6.text = spannable
-                tvSub6.movementMethod = LinkMovementMethod.getInstance()
-            }
-        }
+//        val tvSub6 = view.findViewById<TextView>(R.id.tvCreditSub6)
+//        if (tvSub6 != null) {
+//            val text = tvSub6.text.toString()
+//            val keyword = "Journal of African Entomology"
+//            val start = text.indexOf(keyword)
+//            if (start != -1) {
+//                val url = "https://doi.org//10.17159/2254-8854/2022/a11455"
+//                val spannable = SpannableString(text)
+//                spannable.setSpan(URLSpan(url), start, start + keyword.length, Spanned.SPAN_EXCLUSIVE_EXCLUSIVE)
+//                tvSub6.text = spannable
+//                tvSub6.movementMethod = LinkMovementMethod.getInstance()
+//            }
+//        }
     }
     private fun applyObservationLinks(parent: ViewGroup, links: Map<String, String>) {
         for (i in 0 until parent.childCount) {
